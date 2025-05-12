@@ -1,28 +1,28 @@
 # 👥 Java GUI Clients
 
-Java GUI Clients é um aplicativo desktop desenvolvido em Java, utilizando Swing para a interface gráfica. O projeto tem como objetivo gerenciar informações de clientes, permitindo CRUD (Create, Read, Update, Delete) completo através de uma interface amigável.
+Java GUI Clients is a desktop application developed in Java, using Swing for the graphical interface. The project aims to manage client information, allowing full CRUD (Create, Read, Update, Delete) operations through a user-friendly interface.
 
-## 📱 Demonstração
+## 📱 Demonstration
 
 ![image](https://github.com/jpsantosss/GUI_trabalho/assets/125620461/19ffa8a6-9c41-47e1-9fd5-b19835b787da)
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Adicionar novos clientes
-- Visualizar lista de clientes
-- Editar informações de clientes
-- Remover clientes
-- Busca por nome ou ID
+- Add new clients
+- View client list
+- Edit client information
+- Remove clients
+- Search by name or ID
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 - **Java** 17
-- **Swing** para interface gráfica
+- **Swing** for the graphical interface
 
 ---
 
-Projeto desenvolvido para um trabalho acadêmico.
+Project developed for an academic assignment.
