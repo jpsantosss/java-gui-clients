@@ -26,3 +26,4 @@ Java GUI Clients is a desktop application developed in Java, using Swing for the
 ---
 
 Project developed for an academic assignment.
+
